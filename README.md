@@ -1,3 +1,3 @@
 # cpp-ticket-counter-project
 
-A project to simluate a theatre ticket counter using cpp.
+A project to simulate a theater ticket counter using cpp.
